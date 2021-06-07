@@ -1,0 +1,1 @@
+.\npp.8.0.Installer.x64 /exenoui /qn

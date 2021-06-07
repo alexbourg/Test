@@ -1,0 +1,1 @@
+start /w msiexec /x {877D5364-1E16-4252-BC68-98BF537DE4FB} /qn
